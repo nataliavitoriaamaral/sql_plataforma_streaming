@@ -19,9 +19,9 @@ A modelagem contemplou a resolução de problemas complexos de arquitetura de da
 * **Conceitos Aplicados:** Modelagem de Entidade-Relacionamento, Normalização de Dados, Generalização/Especialização, Joins e Criação de Esquemas.
 
 ## Estrutura de Arquivos
-* `script_criacao.sql`: Script completo com as instruções DDL (criação de tabelas, chaves primárias e estrangeiras) e DML (inserção de dados e consultas).
-* `diagrama_ER.png`: Representação visual do modelo de banco de dados.
-* `documentacao_consultas.pdf`: Relatório detalhado com a descrição do problema e as *queries* desenvolvidas.
+* script_criacao.sql: Script completo com as instruções DDL (criação de tabelas, chaves primárias e estrangeiras) e DML (inserção de dados e consultas).
+* diagrama_ER.png: Representação visual do modelo de banco de dados.
+* documentacao_consultas.pdf: Relatório detalhado com a descrição do problema e as *queries* desenvolvidas.
 
 ---
 ## Equipe de Desenvolvimento
